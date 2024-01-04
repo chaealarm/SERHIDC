@@ -6,4 +6,4 @@ Send smartphone string to PC as keyboard, and switching Keyboard/Mouse to smartp
 
 Designed in EasyEDA. 
 
-You can import json files EasyEDA to open schematic and PCB.
+You can import json files to EasyEDA can open schematic and PCB.
